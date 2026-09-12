@@ -50,7 +50,7 @@ Desenvolvedor Back-end com mais de 5 anos de experiência em tecnologia, especia
 - Realização de code reviews, manutenção corretiva/preventiva e documentação técnica de fluxos e integrações
 - **Tecnologias:** .NET (C#), Node.js, Python, Docker, Kubernetes, Jenkins, Bitbucket, SonarQube, CI/CD, Scrum, Jira
 
-**Analista de Suporte Junior** · Midas Solutions · 2019 - 2023
+**Analista de Suporte Pleno** · Midas Solutions · 2019 - 2023
 
 - Controle, triagem e atendimento de chamados via Zendesk e telefone
 - Análise de cenários, rastreamento de bugs e escalonamento ao suporte N2
